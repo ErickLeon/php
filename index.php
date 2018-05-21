@@ -1,7 +1,7 @@
 <?php
 
-echo "Primeiro codigo PHP!<strong> Negrito HTML denro do PHP </strong>";
+echo "Primeiro codigo PHP Alterado no gitweb!<strong> Negrito HTML denro do PHP </strong>";
 
 ?>
 
-<div>teste HTML</div>
+<div>Alterado no gitweb HTML</div>
